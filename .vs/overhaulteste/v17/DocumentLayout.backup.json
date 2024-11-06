@@ -3,9 +3,6 @@
   "WorkspaceRootPath": "C:\\projeto_flutter\\Overhaul\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Isabela\\AppData\\Local\\Temp\\.vsdbgsrc\\8ae498be83bc5dd50ede91758f1e3404d0cf6e15a3670456188719dcadb803d5\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0D896733-A53C-484C-89BB-EF5B5646FA42}|overhaul teste\\overhaul teste.csproj|c:\\projeto_flutter\\overhaul\\overhaul teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D896733-A53C-484C-89BB-EF5B5646FA42}|overhaul teste\\overhaul teste.csproj|solutionrelative:overhaul teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -109,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -125,20 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Isabela\\AppData\\Local\\Temp\\.vsdbgsrc\\8ae498be83bc5dd50ede91758f1e3404d0cf6e15a3670456188719dcadb803d5\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\Users\\Isabela\\AppData\\Local\\Temp\\.vsdbgsrc\\8ae498be83bc5dd50ede91758f1e3404d0cf6e15a3670456188719dcadb803d5\\Program.cs",
-              "ToolTip": "C:\\Users\\Isabela\\AppData\\Local\\Temp\\.vsdbgsrc\\8ae498be83bc5dd50ede91758f1e3404d0cf6e15a3670456188719dcadb803d5\\Program.cs [Somente Leitura]",
-              "RelativeToolTip": "..\\..\\Users\\Isabela\\AppData\\Local\\Temp\\.vsdbgsrc\\8ae498be83bc5dd50ede91758f1e3404d0cf6e15a3670456188719dcadb803d5\\Program.cs [Somente Leitura]",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T02:47:52.254Z",
-              "EditorCaption": " [Somente Leitura]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Detalhes.cshtml",
               "DocumentMoniker": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\Views\\Home\\Detalhes.cshtml",
               "RelativeDocumentMoniker": "overhaul teste\\Views\\Home\\Detalhes.cshtml",
@@ -150,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "CadastrarCliente.cshtml",
               "DocumentMoniker": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\Views\\Home\\CadastrarCliente.cshtml",
               "RelativeDocumentMoniker": "overhaul teste\\Views\\Home\\CadastrarCliente.cshtml",
@@ -162,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "overhaul teste\\Views\\Home\\Index.cshtml",
@@ -174,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "sidemenu.css",
               "DocumentMoniker": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\wwwroot\\css\\sidemenu.css",
               "RelativeDocumentMoniker": "overhaul teste\\wwwroot\\css\\sidemenu.css",
@@ -186,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "site.js",
               "DocumentMoniker": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "overhaul teste\\wwwroot\\js\\site.js",
@@ -198,12 +182,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\Program.cs",
               "RelativeDocumentMoniker": "overhaul teste\\Program.cs",
-              "ToolTip": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\Program.cs",
-              "RelativeToolTip": "overhaul teste\\Program.cs",
+              "ToolTip": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\Program.cs*",
+              "RelativeToolTip": "overhaul teste\\Program.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T16:07:58.716Z",
@@ -211,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "site.css",
               "DocumentMoniker": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "overhaul teste\\wwwroot\\css\\site.css",
@@ -223,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Carros.css",
               "DocumentMoniker": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\wwwroot\\css\\Carros.css",
               "RelativeDocumentMoniker": "overhaul teste\\wwwroot\\css\\Carros.css",
@@ -235,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "overhaul teste\\Views\\Shared\\_Layout.cshtml",
@@ -247,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Carros.cshtml",
               "DocumentMoniker": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\Views\\Home\\Carros.cshtml",
               "RelativeDocumentMoniker": "overhaul teste\\Views\\Home\\Carros.cshtml",
@@ -259,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "overhaul teste\\Views\\Home\\Login.cshtml",
@@ -271,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "IClienteRepositorio.cs",
               "DocumentMoniker": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\Repositorio\\IClienteRepositorio.cs",
               "RelativeDocumentMoniker": "overhaul teste\\Repositorio\\IClienteRepositorio.cs",
@@ -283,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "ICarroRepositorio.cs",
               "DocumentMoniker": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\Repositorio\\ICarroRepositorio.cs",
               "RelativeDocumentMoniker": "overhaul teste\\Repositorio\\ICarroRepositorio.cs",
@@ -295,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "ClienteRepositorio.cs",
               "DocumentMoniker": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\Repositorio\\ClienteRepositorio.cs",
               "RelativeDocumentMoniker": "overhaul teste\\Repositorio\\ClienteRepositorio.cs",
@@ -307,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "CarroRepositorio.cs",
               "DocumentMoniker": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\Repositorio\\CarroRepositorio.cs",
               "RelativeDocumentMoniker": "overhaul teste\\Repositorio\\CarroRepositorio.cs",
@@ -319,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "overhaul teste\\Models\\Cliente.cs",
@@ -331,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "Carro.cs",
               "DocumentMoniker": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\Models\\Carro.cs",
               "RelativeDocumentMoniker": "overhaul teste\\Models\\Carro.cs",
@@ -343,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "Sessao.cs",
               "DocumentMoniker": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\Libraries\\Sessao\\Sessao.cs",
               "RelativeDocumentMoniker": "overhaul teste\\Libraries\\Sessao\\Sessao.cs",
@@ -355,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "LoginCliente.cs",
               "DocumentMoniker": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\Libraries\\Login\\LoginCliente.cs",
               "RelativeDocumentMoniker": "overhaul teste\\Libraries\\Login\\LoginCliente.cs",
@@ -367,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "overhaul teste\\Controllers\\HomeController.cs",
@@ -379,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "Detalhes.css",
               "DocumentMoniker": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\wwwroot\\css\\Detalhes.css",
               "RelativeDocumentMoniker": "overhaul teste\\wwwroot\\css\\Detalhes.css",
@@ -391,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "Login.css",
               "DocumentMoniker": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\wwwroot\\css\\Login.css",
               "RelativeDocumentMoniker": "overhaul teste\\wwwroot\\css\\Login.css",
@@ -403,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\appsettings.json",
               "RelativeDocumentMoniker": "overhaul teste\\appsettings.json",
@@ -415,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\projeto_flutter\\Overhaul\\overhaul teste\\appsettings.Development.json",
               "RelativeDocumentMoniker": "overhaul teste\\appsettings.Development.json",

@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\overhaul teste",
+    "\\overhaul teste\\Views",
+    "\\overhaul teste\\Views\\Home"
   ],
+  "SelectedNode": "\\overhaul teste\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

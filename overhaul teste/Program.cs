@@ -1,7 +1,7 @@
 using overhaul_teste.Libraries.Login;
 using overhaul_teste.Repositorio;
 
-var builder = WebApplication.CreateBuilder(args);
+WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

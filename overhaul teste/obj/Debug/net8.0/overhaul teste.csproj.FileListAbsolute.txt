@@ -158,3 +158,15 @@ C:\Users\giova\Desktop\TCCoverhaul\overhaul teste\obj\Debug\net8.0\scopedcss\pro
 C:\Users\giova\Desktop\TCCoverhaul\overhaul teste\obj\Debug\net8.0\overhaul.93746C39.Up2Date
 C:\Users\giova\Desktop\TCCoverhaul\overhaul teste\obj\Debug\net8.0\overhaul teste.genruntimeconfig.cache
 C:\Users\giova\Desktop\TCCoverhaul\overhaul teste\obj\Debug\net8.0\ref\overhaul teste.dll
+C:\projeto_flutter\Overhaul\overhaul teste\obj\Debug\net8.0\overhaul teste.csproj.AssemblyReference.cache
+C:\projeto_flutter\Overhaul\overhaul teste\obj\Debug\net8.0\overhaul teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\projeto_flutter\Overhaul\overhaul teste\obj\Debug\net8.0\overhaul teste.AssemblyInfoInputs.cache
+C:\projeto_flutter\Overhaul\overhaul teste\obj\Debug\net8.0\overhaul teste.AssemblyInfo.cs
+C:\projeto_flutter\Overhaul\overhaul teste\obj\Debug\net8.0\overhaul teste.csproj.CoreCompileInputs.cache
+C:\projeto_flutter\Overhaul\overhaul teste\obj\Debug\net8.0\overhaul teste.MvcApplicationPartsAssemblyInfo.cache
+C:\projeto_flutter\Overhaul\overhaul teste\obj\Debug\net8.0\overhaul teste.RazorAssemblyInfo.cache
+C:\projeto_flutter\Overhaul\overhaul teste\obj\Debug\net8.0\overhaul teste.RazorAssemblyInfo.cs
+C:\projeto_flutter\Overhaul\overhaul teste\obj\Debug\net8.0\overhaul teste.sourcelink.json
+C:\projeto_flutter\Overhaul\overhaul teste\obj\Debug\net8.0\overhaul teste.dll
+C:\projeto_flutter\Overhaul\overhaul teste\obj\Debug\net8.0\refint\overhaul teste.dll
+C:\projeto_flutter\Overhaul\overhaul teste\obj\Debug\net8.0\overhaul teste.pdb
